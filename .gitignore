@@ -1,0 +1,14 @@
+#datos procesados
+data/processed
+
+#modelos entrenados
+*.pkl
+
+#archivos de Jupyter
+.ipynb_checkpoints/
+
+#entornos virtuales
+.venv/
+
+#archivos temporales
+__pycache__/
